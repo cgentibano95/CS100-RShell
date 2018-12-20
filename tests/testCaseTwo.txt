@@ -1,0 +1,5 @@
+git status
+ls -a
+git status || git config
+echo testing function &&|| echo failure
+exit

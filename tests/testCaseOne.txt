@@ -1,0 +1,6 @@
+echo 
+echo y
+echo z
+echo z || echo y
+echo x && echo y || echo z
+exit
